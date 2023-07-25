@@ -1,1 +1,4 @@
-# 22ITR025_JAVA_PROJECT
+# 22ITR025 
+#GIRIDHARAN S 
+#JAVA PROJECT
+#Exam_Seating_Arrangement_System
